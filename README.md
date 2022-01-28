@@ -1,4 +1,4 @@
-# data-analysis-exercises
+# Applications of Data Analysis
 
-In this repository I have stored most of my exercise works from different courses.
-Works are sorted in branches named after the course.
+This course is continuation for Data Analysis and Knowledge Discovery.
+The course is organized by University of Turku.
