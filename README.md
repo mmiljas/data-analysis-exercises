@@ -1,4 +1,4 @@
-# data-analysis-exercises
+# Analysis and Programming of Health Wearables
 
-In this repository I have stored most of my exercise works from different courses.
-Works are sorted in branches named after the course.
+This course covers the basics of analysing data from wearable devices.
+Course is organized by University of Turku.
