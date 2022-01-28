@@ -1,4 +1,4 @@
-# data-analysis-exercises
+# Aquisition and Analysis of Biosignals
 
-In this repository I have stored most of my exercise works from different courses.
-Works are sorted in branches named after the course.
+This course covers the basics of biosignal analysis with python.
+Course is organized by University of Turku.
