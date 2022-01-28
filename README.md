@@ -1,4 +1,4 @@
-# data-analysis-exercises
+# Data Analysis and Knowledge Discovery
 
-In this repository I have stored most of my exercise works from different courses.
-Works are sorted in branches named after the course.
+This course covers the basics of data analysis.
+Course is organised by University of Turku.
